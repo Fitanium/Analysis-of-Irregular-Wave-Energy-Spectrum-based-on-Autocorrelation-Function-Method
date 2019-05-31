@@ -18,4 +18,5 @@ Analysis of Irregular Wave Energy Spectrum based on Autocorrelation Function Met
  ## How to use 
  
  `$ gfortran analysis.f90`
+ 
  `$ ./a.out`
